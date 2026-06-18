@@ -12,6 +12,7 @@
 
 -- Switch to the master database
 */
+    
 USE master;
 GO
 
